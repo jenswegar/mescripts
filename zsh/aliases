@@ -1,0 +1,3 @@
+# Personal aliases beyond oh-my-zsh
+
+alias lla="ls -la"

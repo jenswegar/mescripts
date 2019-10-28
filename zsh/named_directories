@@ -1,0 +1,3 @@
+# Personal named directories
+hash -d codepr=/Volumes/CodeProjects
+hash -d docs=~/Documents
