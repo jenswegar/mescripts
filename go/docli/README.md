@@ -19,7 +19,7 @@ This should build the binary and add it to ```$GOPATH```, and provided ```$GOPAT
 
 ### Open terminal to currently running container
 
-This basically runs ```docker exec -ti <CONTAINER_ID> bash```, but with the benefit of outputting a list of currently running containers to choose from. Currently only supporting containers running bash.
+This basically runs ```docker exec -ti <CONTAINER_ID> <SHELL>```, but with the benefit of outputting a list of currently running containers and shell options to choose from. Currently only supporting containers running ```bash``` or ```sh```, as these seem to be the two most common shells used in docker images.
 
 
 ## Building the binary

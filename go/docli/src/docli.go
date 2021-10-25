@@ -39,19 +39,45 @@ func main() {
 		runningContainers = append(runningContainers, fmt.Sprintf("%s %s", container.ID[:10], container.Image))
 	}
 
-	var selectedContainer survey.OptionAnswer
-
-	prompt := &survey.Select{
-		Message: "Choose running container to bash into:",
-		Options: runningContainers,
+	// the questions to ask
+	var qs = []*survey.Question{
+		{
+			Name: "selectedContainer",
+			Prompt: &survey.Select{
+				Message: "Choose running container to bash into:",
+				Options: runningContainers,
+			},
+		},
+		{
+			Name: "shell",
+			Prompt: &survey.Select{
+				Message: "Choose a container shell:",
+				Options: []string{"bash", "sh"},
+				Default: "bash",
+			},
+		},
 	}
-	err = survey.AskOne(prompt, &selectedContainer)
+
+	// var selectedContainer survey.OptionAnswer
+
+	// the answers will be written to this struct
+	answers := struct {
+		SelectedContainer survey.OptionAnswer // survey will match the question and field names
+		Shell             string
+	}{}
+
+	// prompt := &survey.Select{
+	// 	Message: "Choose running container to bash into:",
+	// 	Options: runningContainers,
+	// }
+	// err = survey.AskOne(prompt, &selectedContainer)
+	err = survey.Ask(qs, &answers)
 
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	targetContainer := containers[selectedContainer.Index]
+	targetContainer := containers[answers.SelectedContainer.Index]
 
 	fmt.Printf("Selected container %s \n", targetContainer.ID[:10])
 
@@ -60,7 +86,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	err = syscall.Exec(execPath, []string{"", "exec", "-ti", targetContainer.ID, "bash"}, os.Environ())
+	err = syscall.Exec(execPath, []string{"", "exec", "-ti", targetContainer.ID, answers.Shell}, os.Environ())
 	if err != nil {
 		log.Fatal(err)
 	}
