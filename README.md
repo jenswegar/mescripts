@@ -8,6 +8,9 @@ The scripts found here are mainly targeted for use in my own MacOS environment a
 
 Most scripts assume the ZSH shell on MacOS and oh-my-zsh (https://github.com/robbyrussell/oh-my-zsh) installed.
 
+### Git
+The ```git``` folder contains some customizations to git configurations.
+
 ### ZSH
 
 Copy the content of the following files to the end of the ```.zshrc``` file:
