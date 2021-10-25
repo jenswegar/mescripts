@@ -1,0 +1,10 @@
+# <type>: subject (try to keep under 50 characters)
+#   |
+#   +-- allowed types: fix|feat|refactor
+
+# Optional multi-line description of commit to explain
+# what, why and how this change is being made.
+# (try to limit each line under 72 Characters)
+
+# Footer, e.g. work item to close, e.g
+# Fixes #123
