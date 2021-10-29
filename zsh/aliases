@@ -1,3 +1,6 @@
 # Personal aliases beyond oh-my-zsh
 
 alias lla="ls -la"
+alias dcu="docker-compose up"
+alias dcs="docker-compose stop"
+alias dps="docker ps"
