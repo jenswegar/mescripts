@@ -6,4 +6,5 @@ alias dcs="docker compose stop"
 alias dps="docker ps"
 alias dcp="docker cp"
 alias pubip="curl ifconfig.me/ip && echo"
+alias locip='ifconfig | awk '\''/^[a-z]/ {iface=$1} /inet / && $2!="127.0.0.1" {print $2, "->", iface}'\'''
 alias mountcode="hdiutil attach ~/Documents/Coding/CodeProjects.sparsebundle && hdiutil attach ~/Documents/Coding/CodeProjectsSampleData.sparsebundle"
