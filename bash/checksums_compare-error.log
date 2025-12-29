@@ -1,0 +1,47 @@
+2025-05-08 22:52:17 checksum_comparison: [MISMATCH] Checksums do not match for /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/.DS_Store and /Volumes/Photography/2020/2020_11 - Kilpisjärvi/.DS_Store: 330092c244a9e1894a9f4aa7c79ea2b9 vs 03c56ab9d2a21fdbeae0eb36fa1bcd10
+2025-05-08 22:52:18 checksum_comparison: [MISMATCH] Checksums do not match for Kilpisjärvi.cosessiondb 85d04ac3cf4ac75566feb130baa47b3b /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/2020_11 - Kilpisjärvi.cosessiondb and Kilpisjärvi.cosessiondb 85d04ac3cf4ac75566feb130baa47b3b /Volumes/Photography/2020/2020_11 - Kilpisjärvi/2020_11 - Kilpisjärvi.cosessiondb
+Kilpisjärvi.cosessiondb.backup 37c35821a853a7643a717bc1b3dfe808 /Volumes/Photography/2020/2020_11 - Kilpisjärvi/2020_11 - Kilpisjärvi.cosessiondb.backup: - vs -
+-
+2025-05-08 22:52:18 checksum_comparison: [MISSING] File Kilpisjärvi.cosessiondb.backup 37c35821a853a7643a717bc1b3dfe808 /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/2020_11 - Kilpisjärvi.cosessiondb.backup is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:41 checksum_comparison: [MISMATCH] Checksums do not match for /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/CaptureOne/.DS_Store and /Volumes/Photography/2020/2020_11 - Kilpisjärvi/CaptureOne/.DS_Store: 9a0ecd6cba2f168b923c0255fb201590 vs ce778fc3174db00b6f7a48121f54aabe
+2025-05-08 22:52:45 checksum_comparison: [MISMATCH] Checksums do not match for /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/.DS_Store and /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/.DS_Store: a4e2d673c756e7de075904d51a750880 vs 1cf72ee67a0de06347bb9596866e578e
+2025-05-08 22:52:45 checksum_comparison: [MISMATCH] Checksums do not match for 7c089b628dbe2493c6165a3a1c4de4d9 /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1589.tif and 7c089b628dbe2493c6165a3a1c4de4d9 /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1589.tif
+83f3e90d5c9a4df5745a21e1966b132b /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1595.tif
+6534ac609e2eb5a59f06de96d1e42ac9 /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1598.tif
+5e7c21ae06aa4a39c8033654a5cdde20 /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1599.tif
+adeb7e9bded5ff1aea1237821416419b /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1603.tif
+52c1dd4e0a3b412f3309312f47ac948d /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1610.tif
+6a24ad295c89e4509a39d91f67d9e456 /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1612.tif
+1bab9d2063b901ce31d889eeac82370f /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1625.tif
+d0c1a0aeac833f018b3cbf6dcf345a70 /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1638.tif
+ab765d6b71fd12d2ca025640b5e45de2 /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1640.tif
+e9387a6817478cb85efa7cf32cb76f42 /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1641.tif
+c2029b4e9968ebe4fc733be84a67f44a /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1643.tif
+89bd7dcce9142f09ff16c664720bf36a /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1649.tif
+5f58af81683a57a93ed8a4f57d5c8821 /Volumes/Photography/2020/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1651.tif: book/IMGP1589.tif vs book/IMGP1589.tif
+book/IMGP1595.tif
+book/IMGP1598.tif
+book/IMGP1599.tif
+book/IMGP1603.tif
+book/IMGP1610.tif
+book/IMGP1612.tif
+book/IMGP1625.tif
+book/IMGP1638.tif
+book/IMGP1640.tif
+book/IMGP1641.tif
+book/IMGP1643.tif
+book/IMGP1649.tif
+book/IMGP1651.tif
+2025-05-08 22:52:45 checksum_comparison: [MISSING] File 83f3e90d5c9a4df5745a21e1966b132b /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1595.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:45 checksum_comparison: [MISSING] File 6534ac609e2eb5a59f06de96d1e42ac9 /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1598.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:45 checksum_comparison: [MISSING] File 5e7c21ae06aa4a39c8033654a5cdde20 /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1599.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:45 checksum_comparison: [MISSING] File adeb7e9bded5ff1aea1237821416419b /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1603.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:46 checksum_comparison: [MISSING] File 52c1dd4e0a3b412f3309312f47ac948d /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1610.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:46 checksum_comparison: [MISSING] File 6a24ad295c89e4509a39d91f67d9e456 /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1612.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:46 checksum_comparison: [MISSING] File 1bab9d2063b901ce31d889eeac82370f /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1625.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:46 checksum_comparison: [MISSING] File d0c1a0aeac833f018b3cbf6dcf345a70 /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1638.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:46 checksum_comparison: [MISSING] File ab765d6b71fd12d2ca025640b5e45de2 /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1640.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:46 checksum_comparison: [MISSING] File e9387a6817478cb85efa7cf32cb76f42 /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1641.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:46 checksum_comparison: [MISSING] File c2029b4e9968ebe4fc733be84a67f44a /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1643.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:46 checksum_comparison: [MISSING] File 89bd7dcce9142f09ff16c664720bf36a /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1649.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
+2025-05-08 22:52:46 checksum_comparison: [MISSING] File 5f58af81683a57a93ed8a4f57d5c8821 /Users/jenswegar/SyncSpace/Photo WIP/2020_11 - Kilpisjärvi/Output/Photo book/IMGP1651.tif is missing in /Volumes/Photography/2020/2020_11 - Kilpisjärvi
